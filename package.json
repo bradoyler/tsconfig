@@ -1,0 +1,26 @@
+{
+	"name": "@bradoyler/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "bradoyler/tsconfig",
+	"author": {
+		"name": "Brad Oyler",
+		"email": "bradoyler@gmail.com",
+		"url": "https://bradoyler.com"
+	},
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=8"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
